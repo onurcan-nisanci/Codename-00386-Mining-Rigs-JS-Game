@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: gray;
+}
+
+#myCanvas {
+	margin: 0 auto;
+	display: none;
+	border: solid;
+	border-color: black;
+	
+}
+
+#canLoad {
+	margin: 0 auto;
+	border: solid;
+	display: block;
+	background-image: url("images/ui/loadbg.png");
+	position: relative;
+}
