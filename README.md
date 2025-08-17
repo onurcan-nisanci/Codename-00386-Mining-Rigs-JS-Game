@@ -1,6 +1,6 @@
 # About
-* This game developed with pure JavaScript and HTML5 canvases without using any framework. 
-* Game has 8 levels and 3 different weapons, you're controlling an agent whose mission is destroying the mining rigs. 
+* This game was developed using pure **JavaScript** and **HTML5 Canvas**, without any external frameworks.
+* The game features 8 levels and 3 unique weapons. You control an agent whose mission is to destroy mining rigs.
 
 ![menu_artwork](https://user-images.githubusercontent.com/39779689/131333811-e1907608-0c99-4256-b244-30b93f1ee63a.png)
 ![introduction](https://user-images.githubusercontent.com/39779689/131333824-6c30e832-8e01-47ee-b88f-391647166b04.png)
@@ -10,7 +10,6 @@
 
 # Getting Started
 * A web browser needed to run **index.html** file.
-* Maybe you will be needed to interested in some kind of an action because many men will die on this game. :)
 
 # CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 Copyright (C) 2018 Onur Can Nisanci
